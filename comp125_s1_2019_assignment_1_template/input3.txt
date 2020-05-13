@@ -1,0 +1,11 @@
+Hello,Doc,600000,3
+log,java,4500,5
+hello,doc,600000,3
+messi,mp4,40101020,5
+init,py,800,3
+first,txt,105,7
+HELLO,DOC,600000,3
+australia,pdf,505050,4
+analysis,py,10000,5
+hello,doc,600000,3
+boot,py,32030,7

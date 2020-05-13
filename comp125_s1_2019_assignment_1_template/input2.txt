@@ -1,0 +1,17 @@
+bar,HTM,130424,0
+messi,mp4,40101020,5
+init,bat,2536354,6
+run,exe,23425,7
+bash,sh,252513,1
+special,py,423542,6
+fun,md,43232552,4
+foo,html,600,5
+bar,htm,130424,0
+log,java,4500,5
+soccer,doc,543665,3
+club,xls,2436,2
+flowchart,png,123,5
+nab,gif,325543645,7
+laliga,mp4,13435,3
+test,py,2147483647,7
+bar,htm,130424,0

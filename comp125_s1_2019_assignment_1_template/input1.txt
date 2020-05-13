@@ -1,0 +1,21 @@
+boot,py,32030,7
+log,java,4500,5
+hello,doc,600000,3
+init,py,800,3
+first,txt,105,7
+instructions,pdf,1000002,4
+audit,doc,20,0
+test,py,200,7
+second,md,545,6
+manual,docx,5436,2
+init,php,654321,7
+australia,pdf,505050,4
+messi,mp4,40101020,5
+analysis,py,10000,5
+hello,doc,600000,3
+champions league,jpg,4756455,1
+hello,doc,600000,3
+hello,doc,600000,3
+HELLO,DOC,600000,3
+Hello,Doc,600000,3
+hello,doc,600000,3
